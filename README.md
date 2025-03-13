@@ -1,17 +1,17 @@
 # 👨‍🎓 Constantin Savciuc - GitHub Student Account
 
-Salut! Sunt **Constantin Savciuc**, student la **Universitatea Politehnica din București**, specializat în **Calculatoare și Tehnologia Informației**. Acest cont GitHub este destinat tuturor proiectelor academice și lucrărilor realizate pe parcursul studiilor mele universitare.
+Hi! I’m **Constantin Savciuc**, a student at **University Politehnica of Bucharest**, specializing in **Computer Science and Information Technology**. This GitHub account is dedicated to all academic projects and coursework completed during my university studies.
 
-Am experiență în dezvoltarea de **aplicații web și mobile**, lucrând cu tehnologii precum **C#, JavaScript, Dart, Java, C++, C, Python și SQL**. De asemenea, sunt pasionat de **probleme algoritmice, optimizare software și arhitecturi scalabile**. Pe acest profil vei găsi proiecte legate de **grafică pe calculator, algoritmi, dezvoltare backend și tehnologii open-source**.
+I have experience in developing **web and mobile applications**, working with technologies such as **C#, JavaScript, Dart, Java, C++, C, Python, and SQL**. I am also passionate about **algorithmic problem-solving, software optimization, and scalable architectures**. On this profile, you will find projects related to **computer graphics, algorithms, backend development, and open-source technologies**.
 
-🔧 **Abilități Tehnice:**  
-- **Limbaje de programare:** C#, JavaScript, Dart, Java, C++, C, Python, SQL  
-- **Tehnologii:** React, React Native, Flutter, Firebase, Git, RESTful APIs  
+🔧 **Technical Skills:**  
+- **Programming Languages:** C#, JavaScript, Dart, Java, C++, C, Python, SQL  
+- **Technologies:** React, React Native, Flutter, Firebase, Git, RESTful APIs  
 - **Software & Hardware:** Blender, SolidWorks, Arduino, Raspberry Pi  
 
-📌 **Obiectiv:** Îmbunătățirea continuă a cunoștințelor și aplicarea acestora în proiecte practice, contribuind la dezvoltarea comunității tech.
+📌 **Objective:** To continuously improve my knowledge and apply it in practical projects, contributing to the tech community.
 
-🔗 **Mai multe despre mine:**  
+🔗 **More about me:**  
 - **Email:** [savciuccu@gmail.com](mailto:savciuccu@gmail.com)
 - **GitHub:** [github.com/p-savciucc](https://github.com/p-savciucc)
 - **LinkedIn:** [linkedin.com/in/savciucc](https://www.linkedin.com/in/savciucc)
