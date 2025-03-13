@@ -12,4 +12,7 @@ Am experiență în dezvoltarea de **aplicații web și mobile**, lucrând cu te
 📌 **Obiectiv:** Îmbunătățirea continuă a cunoștințelor și aplicarea acestora în proiecte practice, contribuind la dezvoltarea comunității tech.
 
 🔗 **Mai multe despre mine:**  
-- [LinkedIn](https://www.linkedin.com/in/constantin-savciuc-93561b33b)
+- **Email:** [savciuccu@gmail.com](mailto:savciuccu@gmail.com)
+- **GitHub:** [github.com/p-savciucc](https://github.com/p-savciucc)
+- **LinkedIn:** [linkedin.com/in/savciucc](https://www.linkedin.com/in/savciucc)
+- **Instagram:** [instagram.com/burla_costel](https://www.instagram.com/burla_costel)
