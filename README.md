@@ -14,5 +14,5 @@ I have experience in developing **web and mobile applications**, working with te
 🔗 **More about me:**  
 - **Email:** [savciuccu@gmail.com](mailto:savciuccu@gmail.com)
 - **GitHub:** [github.com/p-savciucc](https://github.com/p-savciucc)
-- **LinkedIn:** [linkedin.com/in/savciucc](https://www.linkedin.com/in/savciucc)
+- **LinkedIn:** [linkedin.com/in/constantin-savciuc-93561b33b/](https://www.linkedin.com/in/constantin-savciuc-93561b33b/)
 - **Instagram:** [instagram.com/burla_costel](https://www.instagram.com/burla_costel)
