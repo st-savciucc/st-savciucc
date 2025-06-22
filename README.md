@@ -1,4 +1,4 @@
-# 👨‍🎓 Constantin Savciuc - GitHub Student Account
+#GitHub Student Account
 
 Hi! I’m **Constantin Savciuc**, a student at **University Politehnica of Bucharest**, specializing in **Computer Science and Information Technology**. This GitHub account is dedicated to all academic projects and coursework completed during my university studies.
 
@@ -10,9 +10,3 @@ I have experience in developing **web and mobile applications**, working with te
 - **Software & Hardware:** Blender, SolidWorks, Arduino, Raspberry Pi  
 
 📌 **Objective:** To continuously improve my knowledge and apply it in practical projects, contributing to the tech community.
-
-🔗 **More about me:**  
-- **Email:** [savciuccu@gmail.com](mailto:savciuccu@gmail.com)
-- **GitHub:** [github.com/p-savciucc](https://github.com/p-savciucc)
-- **LinkedIn:** [linkedin.com/in/constantin-savciuc-93561b33b/](https://www.linkedin.com/in/constantin-savciuc-93561b33b/)
-- **Instagram:** [instagram.com/burla_costel](https://www.instagram.com/burla_costel)
